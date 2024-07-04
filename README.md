@@ -5,7 +5,15 @@
 
 🚀 No momento, sou assistente administrativa, mas estou trilhando novos caminhos na minha carreira.
 
-![Anurag's GitHub stats tokyonight](https://github-readme-stats.vercel.app/api?username=eujusr&theme=tokyonight&show_icons=true)
+
+<div>  
+<a href="https://github.com/eujusr">
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=eujusr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eujusr&layout=compact&langs_count=16&theme=tokyonight"/>
+
+<div>
+
+
 
 
 ## Ferramentas e Tecnologias
