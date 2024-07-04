@@ -7,6 +7,12 @@
 
 ![Anurag's GitHub stats tokyonight](https://github-readme-stats.vercel.app/api?username=eujusr&theme=tokyonight&show_icons=true)
 
+<div style="width: 30px;">
+<a href="https://github.com/eujusr/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eujusr&langs_count=8" alt="Top Langs" />
+</a>
+</div>
+
 ## Ferramentas e Tecnologias
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
@@ -18,8 +24,6 @@
    
  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" width="40" height="40"/>
           
-
-
           
  ## Contatos: 
  
