@@ -1,11 +1,14 @@
 ## 👋 Olá, mundo do GitHub! Eu sou a Juliana Ribeiro!
 
+<img align="right" height="160cm"  alt="zoro" src="https://s4.ezgif.com/tmp/ezgif-4-9664251b34.gif" /> 
 
 ✨ Tenho 27 anos, formada em Administração e com pós-graduação em Gestão de Big Data Business Analytics.
 
 🚀 No momento, sou assistente administrativa, mas estou trilhando novos caminhos na minha carreira.
 
-      
+
+
+
 ## Linguagens e Ferramentas 💻
 
 <div style="display: inline">
