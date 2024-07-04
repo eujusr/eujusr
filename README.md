@@ -1,6 +1,6 @@
 ## 👋 Olá, mundo do GitHub! Eu sou a Juliana Ribeiro!
 
-<img align="right" height="160cm"  alt="zoro" src="https://s4.ezgif.com/tmp/ezgif-4-9664251b34.gif" /> 
+<img align="right" height="180cm"  alt="zoro" src="https://s4.ezgif.com/tmp/ezgif-4-ca559e2dfe.gif" /> 
 
 ✨ Tenho 27 anos, formada em Administração e com pós-graduação em Gestão de Big Data Business Analytics.
 
@@ -9,7 +9,7 @@
 
 
 
-## Linguagens e Ferramentas 💻
+ Linguagens e Ferramentas 💻
 
 <div style="display: inline">
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
