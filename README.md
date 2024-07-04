@@ -9,7 +9,7 @@
 
 
 
- Linguagens e Ferramentas 💻
+ ## Linguagens e Ferramentas 💻
 
 <div style="display: inline">
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
