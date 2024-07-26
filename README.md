@@ -1,13 +1,16 @@
 # 👋 Olá, mundo do GitHub! Eu sou a Juliana Ribeiro!
 
-<img align="right"  width="115" height="125cm"  alt="zoro" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9lNGd3aHh2MDJhcTYwZGwwaDNlazM2ZzVrNng1OWV4ZWV5ZGp4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vpHnQnilWEoR6lrLFY/giphy.gif" /> 
+<img align="right"  width="215" height="215cm"  alt="zoro" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9lNGd3aHh2MDJhcTYwZGwwaDNlazM2ZzVrNng1OWV4ZWV5ZGp4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vpHnQnilWEoR6lrLFY/giphy.gif" /> 
 
 
 ✨ Tenho 27 anos, formada em Administração e com pós-graduação em Gestão de Big Data Business Analytics.
 
 🚀 No momento, sou assistente administrativa, mas estou trilhando novos caminhos na minha carreira.
 
+ <br>  <br>  <br>
 
+
+ 
  ## Linguagens e Ferramentas 💻
 
 <div style="display: inline">
