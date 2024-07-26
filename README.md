@@ -1,6 +1,6 @@
 # 👋 Olá, mundo do GitHub! Eu sou a Juliana Ribeiro!
 
-<img align="right"  width="115" height="125cm"  alt="zoro" src="https://www.canva.com/design/DAGMFLpvs1c/UOJ5NB7LxsX9cECrvSqBLw/edit?utm_content=DAGMFLpvs1c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" /> 
+<img align="right"  width="115" height="125cm"  alt="zoro" src="https://www.canva.com/design/DAGMFLpvs1c/UOJ5NB7LxsX9cECrvSqBLw/edit?utm_content=DAGMFLpvs1c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton.gif" /> 
 
 
 ✨ Tenho 27 anos, formada em Administração e com pós-graduação em Gestão de Big Data Business Analytics.
