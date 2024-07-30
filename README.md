@@ -1,4 +1,10 @@
-# 👋 Olá, mundo do GitHub! Eu sou a Juliana Ribeiro!
+
+ # 👋 Olá, pessoal! Eu sou a Juliana Ribeiro  🎇
+### E esse é um pouquinho do meu mundo!  Sejam bem-vindo (a)!
+
+</div>
+ 
+
 <img align="right"  width="220" height="215cm"  alt="zoro" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9lNGd3aHh2MDJhcTYwZGwwaDNlazM2ZzVrNng1OWV4ZWV5ZGp4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vpHnQnilWEoR6lrLFY/giphy.gif"/> 
  <div>
 <a href="https://www.linkedin.com/in/julianasouzaribeiro/"_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -7,9 +13,20 @@
 </div>          
 
 <br> 
+</div>
+
 ✨ Tenho 27 anos, formada em Administração e com pós-graduação em Gestão de Big Data Business Analytics.
+</div>
+
+</div>
 
 🚀 No momento, sou assistente administrativa, mas estou trilhando novos caminhos na minha carreira.
+
+ </div>
+ 
+🌵 Sou uma nordestina perdida em São Paulo, que nas horas vagas ama ler, dançar, ouvir música/podcast, assistir filmes/animes, alias quem está te obersando ai do lado é nada mais nada menos que o RORONOA ZORO, minha riqueza.
+
+</div>
 
  <br> 
 
