@@ -5,7 +5,7 @@
 </div>
  
 
-<img align="right"  width="270" height="320cm"  alt="zoro" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9lNGd3aHh2MDJhcTYwZGwwaDNlazM2ZzVrNng1OWV4ZWV5ZGp4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vpHnQnilWEoR6lrLFY/giphy.gif"/> 
+<img align="right"  width="250" height="300cm"  alt="zoro" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9lNGd3aHh2MDJhcTYwZGwwaDNlazM2ZzVrNng1OWV4ZWV5ZGp4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vpHnQnilWEoR6lrLFY/giphy.gif"/> 
  <div>
 <a href="https://www.linkedin.com/in/julianasouzaribeiro/"_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/eujusr_/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href = "mailto:eujusr@gmail.com" ></a>
