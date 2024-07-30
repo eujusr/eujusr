@@ -1,14 +1,14 @@
 
- # 👋 Olá, pessoal! Eu sou a Juliana Ribeiro  🎇
-### E esse é um pouquinho do meu mundo!  Sejam bem-vindo (a)!
+ # Olá, pessoal! Eu sou a Juliana Ribeiro  🎇
+### E esse é um pouquinho do meu mundo!  Sejam bem-vindos!
 
 </div>
  
 
-<img align="right"  width="220" height="215cm"  alt="zoro" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9lNGd3aHh2MDJhcTYwZGwwaDNlazM2ZzVrNng1OWV4ZWV5ZGp4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vpHnQnilWEoR6lrLFY/giphy.gif"/> 
+<img align="right"  width="270" height="320cm"  alt="zoro" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9lNGd3aHh2MDJhcTYwZGwwaDNlazM2ZzVrNng1OWV4ZWV5ZGp4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vpHnQnilWEoR6lrLFY/giphy.gif"/> 
  <div>
 <a href="https://www.linkedin.com/in/julianasouzaribeiro/"_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/eujusr_/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href = "mailto:eujusr@gmail.com" >
+<a href="https://www.instagram.com/eujusr_/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href = "mailto:eujusr@gmail.com" ></a>
 <a href="https://www.linkedin.com/in/julianasouzaribeiro/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>          
 
@@ -24,7 +24,7 @@
 
  </div>
  
-🌵 Sou uma nordestina perdida em São Paulo, que nas horas vagas ama ler, dançar, ouvir música/podcast, assistir filmes/animes, alias quem está te obersando ai do lado é nada mais nada menos que o RORONOA ZORO, minha riqueza.
+🌵 Sou uma nordestina perdida em São Paulo, que nas horas vagas ama ler, dançar, ouvir música, podcast, assistir filmes, animes... Aliás quem está te observando aí do lado é nada mais nada menos que o **RORONOA ZORO,** minha riqueza.
 
 </div>
 
