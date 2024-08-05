@@ -1,10 +1,9 @@
 
  # Olá, pessoal! Eu sou a Juliana Ribeiro  🎇
-### E esse é um pouquinho do meu mundo!  Sejam bem-vindos!
+ ### E esse é um pouquinho do meu mundo!  Sejam bem-vindos!
 
 </div>
  
-
 <img align="right"  width="250" height="300cm"  alt="zoro" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9lNGd3aHh2MDJhcTYwZGwwaDNlazM2ZzVrNng1OWV4ZWV5ZGp4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vpHnQnilWEoR6lrLFY/giphy.gif"/> 
  <div>
 <a href="https://www.linkedin.com/in/julianasouzaribeiro/"_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -13,24 +12,16 @@
 
 </div>          
 
-<br> 
-</div>
+<br/>
 
 ✨ Tenho 27 anos, formada em Administração e com pós-graduação em Gestão de Big Data Business Analytics.
-</div>
-
-</div>
+<br/>
 
 🚀 No momento, sou assistente administrativa, mas estou trilhando novos caminhos na minha carreira.
-
- </div>
+<br/>
  
 🌵 Sou uma nordestina perdida em São Paulo, que nas horas vagas ama ler, dançar, ouvir música, podcast, assistir filmes, animes... Aliás quem está te observando aí do lado é nada mais nada menos que o **RORONOA ZORO,** minha riqueza.
-
-</div>
-
- <br> 
-
+ <br/>
  
  ## Linguagens e Ferramentas 💻
 
@@ -58,10 +49,16 @@
           
 ## GitHub  Stats ⚡
 
-<div>  
-<a href="https://github.com/eujusr">
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=eujusr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eujusr&layout=compact&langs_count=16&theme=tokyonight"/>
-
 <div>
+  <a href="https://github.com/eujusr">
+  <center>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eujusr&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true" alt="centered image">
+  </center>
+  <center>  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eujusr&layout=compact&langs_count=7&theme=shadow_green"/> 
+  </center>
+</div>
+
+
+
 
