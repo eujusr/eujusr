@@ -20,7 +20,7 @@
 🚀 No momento, sou assistente administrativa, mas estou trilhando novos caminhos na minha carreira.
 <br/>
  
-🌵 Sou uma nordestina perdida em São Paulo, que nas horas vagas ama ler, dançar, ouvir música, podcast, assistir filmes, animes... Aliás quem está te observando aí do lado é nada mais nada menos que o **RORONOA ZORO,** minha riqueza.
+🌵 Sou uma nordestina perdida em São Paulo, que nas horas vagas ama ler, dançar, ouvir música, podcast, assistir filmes, animes... Aliás quem está te observando aí ao lado é nada mais nada menos que o **RORONOA ZORO,** minha riqueza.
  <br/>
  
  ## Linguagens e Ferramentas 💻
