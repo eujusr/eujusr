@@ -15,7 +15,7 @@
 
 <br/>
 
-✨ Tenho 27 anos, formada em Administração e com pós-graduação em Gestão de Big Data Business Analytics.
+✨ Tenho 28 anos, formada em Administração e com pós-graduação em Gestão de Big Data Business Analytics.
 <br/>
 
 🚀 No momento, sou assistente administrativa, mas estou trilhando novos caminhos na minha carreira.
